@@ -2,8 +2,8 @@
 
 ## 🔭 I'm currently working on
 - President, Code Tech. Co., Ltd. 
-- Head Instructo, Korea IT Academy Co., Ltd. 
-- Educational Director, Chungbuk ICT Inductrial Associations.
+- Representative Instructor, Korea IT Academy Co., Ltd. 
+- Education Director, Chungbuk ICT Inductry Association
     
 ## 👯 I’m looking to collaborate on
 - Data Analysis at the plant site.
