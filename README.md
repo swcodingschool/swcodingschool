@@ -1,9 +1,10 @@
 # Welcome to swcodingschool's classroom
 
 ## 🔭 I'm currently working on
-- President, Code Tech. Co., Ltd. 
+- CEO, Code Tech. Co., Ltd. 
 - Representative Instructor, Korea IT Academy Co., Ltd. 
 - Education Director, Chungbuk ICT Inductry Association
+- Director, Digital Convergence Contents Association
     
 ## 👯 I’m looking to collaborate on
 - Data Analysis at the plant site.
