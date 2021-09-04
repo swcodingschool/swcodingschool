@@ -1,11 +1,16 @@
 # Welcome to swcodingschool's classroom
 
-## 🔭 I'm currently working on:
+## 🖥️ I'm currently working on:
+- Developing a web/app application with VR/AR.
+- Developing a Data Analysis Platform with DL.
+- Teaching new recruits.
+
+## 👨‍💼 I'm currently working as:
 - CEO, Code Tech. Co., Ltd. 
 - Representative Instructor, Korea IT Academy Co., Ltd. 
 - Education Director, Chungbuk ICT Inductry Association
 - Director, Digital Convergence Contents Association
-    
+
 ## 👯 I’m looking to collaborate on:
 - Data Analysis at the plant site.
 - Data Analysis at the educational market.
@@ -29,6 +34,7 @@
 - **phone.** +82-43-259-2800  
 
 <!--
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
